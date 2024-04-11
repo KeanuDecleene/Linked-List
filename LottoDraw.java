@@ -112,7 +112,7 @@ public void generateLotteryTickets(int numTicketsTotal,int ticketNums){
                 ticket.add(randValString);
             }
             else{
-                j += -1;
+                j += -1; //ensures the ticket is random
             }
         }
         int prize = checkTicketPrize(ticket);
