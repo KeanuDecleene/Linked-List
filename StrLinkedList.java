@@ -4,7 +4,6 @@
  */
 public class StrLinkedList{
 private Node head; 
-
 /*
  * A node that stores a datum and its pointer
  */

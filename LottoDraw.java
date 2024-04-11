@@ -5,7 +5,6 @@ import java.util.Random; //importing Random type
  * @author Keanu De Cleene
  */
 public class LottoDraw {
-    
 private StrLinkedList madeLottoDraw;
 private StrLinkedList winningNumbers;
 private double prizeMoneyGiven; //the prize money given form draw
